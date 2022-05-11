@@ -1,0 +1,196 @@
+,Unnamed: 0,incident_name,incident_date_created,incident_county,incident_acres_burned,None,D0,D1,D2,D3,D4,MapDate,County
+0,0,Erbes Fire,2021-01-14T16:00:00Z,Ventura,250.0,0.0,1.25,98.75,0.0,0.0,0.0,20210112.0,Ventura County
+1,1,Manzanita Fire,2021-01-19T12:08:00Z,Madera,23.0,0.0,0.0,0.0,99.74,0.26,0.0,20210119.0,Madera County
+2,2,Bonny Doone Complex (Previously Fanning Fire),2021-01-19T06:48:00Z,Santa Cruz,20.0,0.0,0.0,100.0,0.0,0.0,0.0,20210119.0,Santa Cruz County
+3,3,North Butano Fire,2021-01-18T21:00:00Z,San Mateo,15.0,0.0,0.0,28.29,71.71,0.0,0.0,20210119.0,San Mateo County
+4,4,China Grade Fire,2021-01-18T21:00:00Z,Santa Cruz,22.0,0.0,0.0,100.0,0.0,0.0,0.0,20210119.0,Santa Cruz County
+5,5,Wolf Fire,2021-01-19T11:47:00Z,Kern,685.0,0.0,0.0,37.02,56.54,6.44,0.0,20210119.0,Kern County
+6,6,72 Fire,2021-01-19T14:48:24Z,Riverside,43.0,0.0,24.97,16.03,36.56,22.44,0.0,20210119.0,Riverside County
+7,7,Towsley Fire,2021-01-19T15:04:08Z,Los Angeles,184.0,0.0,4.36,84.7,10.94,0.0,0.0,20210119.0,Los Angeles County
+8,8,Panther Ridge Fire,2021-01-19T15:25:39Z,Santa Cruz,20.0,0.0,0.0,100.0,0.0,0.0,0.0,20210119.0,Santa Cruz County
+9,9,Freedom Fire,2021-01-19T19:13:18Z,Santa Cruz,37.0,0.0,0.0,100.0,0.0,0.0,0.0,20210119.0,Santa Cruz County
+10,10,Grapevine Fire,2021-03-14T18:35:00Z,Kern,86.0,0.0,0.27,52.43,41.19,6.12,0.0,20210316.0,Kern County
+11,11,Refuge Fire,2021-03-27T17:02:04Z,Siskiyou,873.0,0.0,1.57,16.0,27.15,55.28,0.0,20210330.0,Siskiyou County
+12,12,Line Fire,2021-03-28T14:43:24Z,Tuolumne,23.0,0.0,0.0,55.2,44.8,0.0,0.0,20210330.0,Tuolumne County
+13,13,Woodman Fire,2021-04-01T15:56:00Z,Shasta,35.0,0.0,0.0,0.0,75.51,24.49,0.0,20210330.0,Shasta County
+14,14,Westwood Fire,2021-04-04T15:52:00Z,Ventura,25.0,0.0,0.0,1.25,98.75,0.0,0.0,20210406.0,Ventura County
+15,15,Paso Fire,2021-04-12T18:44:23Z,San Diego,28.0,0.0,94.19,5.81,0.0,0.0,0.0,20210413.0,San Diego County
+16,16,Turnout Fire,2021-04-18T17:46:54Z,Mendocino,200.0,0.0,0.0,7.73,69.35,22.92,0.0,20210420.0,Mendocino County
+17,17,River Fire,2021-04-19T20:29:35Z,Sutter,80.0,0.0,0.0,0.0,0.0,100.0,0.0,20210420.0,Sutter County
+18,18,Wolves Fire,2021-04-23T00:34:19Z,Kern,50.0,0.0,0.0,0.0,24.78,75.22,0.0,20210427.0,Kern County
+19,19,Luis Fire,2021-04-24T14:50:00Z,Merced,93.0,0.0,0.0,14.47,85.53,0.0,0.0,20210427.0,Merced County
+20,20,North Fire,2021-04-28T23:04:57Z,Los Angeles,650.0,0.0,0.0,3.25,8.55,88.2,0.0,20210427.0,Los Angeles County
+21,21,Sky Fire,2021-04-29T12:44:00Z,Lake,65.0,0.0,0.0,0.0,0.0,100.0,0.0,20210427.0,Lake County
+22,22,Campo Fire,2021-04-29T23:18:41Z,Calaveras,160.0,0.0,0.0,0.0,100.0,0.0,0.0,20210427.0,Calaveras County
+23,23,Salmon Fire,2021-05-01T21:02:48Z,El Dorado,32.0,0.0,0.0,0.0,17.59,82.41,0.0,20210504.0,El Dorado County
+24,24,Southern Fire,2021-05-02T00:56:04Z,San Diego,5366.0,0.0,86.92,12.98,0.1,0.0,0.0,20210504.0,San Diego County
+25,25,Creek Fire,2021-05-04T13:28:00Z,Riverside,32.0,0.0,0.0,6.04,53.38,38.08,2.5,20210504.0,Riverside County
+26,26,Bridge Fire,2021-05-05T23:30:06Z,Riverside,226.0,0.0,0.0,6.04,53.38,38.08,2.5,20210504.0,Riverside County
+27,27,Gunnison Fire,2021-05-08T13:44:53Z,Butte,549.0,0.0,0.0,0.0,0.0,100.0,0.0,20210511.0,Butte County
+28,28,Granite Fire,2021-05-08T15:02:45Z,Calaveras,118.0,0.0,0.0,0.0,0.0,100.0,0.0,20210511.0,Calaveras County
+29,29,Dillard Fire,2021-05-08T17:29:49Z,Sacramento,44.0,0.0,0.0,0.0,0.0,100.0,0.0,20210511.0,Sacramento County
+30,30,Quail Fire,2021-05-12T20:48:43Z,Yuba,35.0,0.0,0.0,0.0,0.0,100.0,0.0,20210511.0,Yuba County
+31,31,Pine Fire,2021-05-12T22:46:39Z,Los Angeles,442.0,0.0,0.0,3.25,8.55,88.2,0.0,20210511.0,Los Angeles County
+32,32,Fields Fire,2021-05-14T14:00:00Z,Merced,97.0,0.0,0.0,0.0,15.09,84.91,0.0,20210518.0,Merced County
+33,33,R-1 Fire,2021-05-14T13:03:00Z,Lassen,29.0,0.0,0.0,0.0,0.0,100.0,0.0,20210518.0,Lassen County
+34,34,Palisades Fire,2021-05-14T21:50:41Z,Los Angeles,1202.0,0.0,0.0,3.25,8.55,88.2,0.0,20210518.0,Los Angeles County
+35,35,Davis Fire,2021-05-18T13:30:00Z,Riverside,300.0,0.0,0.0,0.0,59.42,38.08,2.5,20210518.0,Riverside County
+36,36,Parkside Fire,2021-05-19T15:54:00Z,Riverside,17.0,0.0,0.0,0.0,59.42,38.08,2.5,20210518.0,Riverside County
+37,37,Settlers Fire,2021-05-19T14:56:00Z,El Dorado,45.0,0.0,0.0,0.0,17.59,82.41,0.0,20210518.0,El Dorado County
+38,38,WeeVill Fire,2021-05-20T09:27:00Z,Los Angeles,300.0,0.0,0.0,3.25,8.55,88.2,0.0,20210518.0,Los Angeles County
+39,39,Bluff Fire,2021-05-21T06:55:59Z,Humboldt,25.0,0.0,0.0,14.27,85.73,0.0,0.0,20210525.0,Humboldt County
+40,40,Tomki Fire,2021-05-21T15:36:15Z,Mendocino,18.0,0.0,0.0,0.0,21.56,59.51,18.92,20210525.0,Mendocino County
+41,41,Lake Fire,2021-05-24T13:30:26Z,Riverside,115.0,0.0,0.0,0.0,59.49,38.01,2.5,20210525.0,Riverside County
+42,42,Live Oak Fire,2021-05-27T14:36:00Z,Mariposa,197.0,0.0,0.0,0.0,0.0,100.0,0.0,20210525.0,Mariposa County
+43,43,Mile Fire,2021-05-27T18:44:00Z,Stanislaus,508.0,0.0,0.0,0.0,0.0,99.79,0.21,20210525.0,Stanislaus County
+44,44,Sargents Fire,2021-05-30T15:10:29Z,Monterey,1100.0,0.0,0.0,0.0,85.18,14.82,0.0,20210601.0,Monterey County
+45,45,Slope Fire,2021-05-31T16:24:20Z,Fresno,25.0,0.0,0.0,0.0,24.98,58.22,16.8,20210601.0,Fresno County
+46,46,Smalley Fire,2021-05-31T19:12:45Z,Madera,45.0,0.0,0.0,0.0,0.0,100.0,0.0,20210601.0,Madera County
+47,47,Scott Fire,2021-06-01T13:06:00Z,Riverside,28.0,0.0,0.0,0.0,59.49,38.01,2.5,20210601.0,Riverside County
+48,48,Coyote Fire,2021-06-02T18:30:00Z,Riverside,43.0,0.0,0.0,0.0,59.49,38.01,2.5,20210601.0,Riverside County
+49,49,Buck Fire,2021-06-06T15:20:52Z,Madera,50.0,0.0,0.0,0.0,0.0,65.45,34.55,20210608.0,Madera County
+50,50,Intanko Fire,2021-06-08T13:59:00Z,Yuba,939.0,0.0,0.0,0.0,0.0,31.66,68.34,20210608.0,Yuba County
+51,51,Farm Fire,2021-06-09T13:15:00Z,San Bernardino,250.0,0.0,0.0,0.0,9.34,69.25,21.41,20210608.0,San Bernardino County
+52,52,Sierra Fire,2021-06-09T13:53:00Z,San Diego,1000.0,0.0,0.0,88.49,11.51,0.0,0.0,20210608.0,San Diego County
+53,53,Creek Fire,2021-06-09T20:00:00Z,Yolo,34.0,0.0,0.0,0.0,0.0,0.0,100.0,20210608.0,Yolo County
+54,54,Flats Fire,2021-06-13T11:12:13Z,Riverside,341.0,0.0,0.0,0.0,59.19,38.31,2.5,20210615.0,Riverside County
+55,55,Goose Fire,2021-06-13T16:01:34Z,Amador,67.0,0.0,0.0,0.0,0.0,80.58,19.42,20210615.0,Amador County
+56,56,Beale Fire,2021-06-13T19:39:00Z,Yuba,150.0,0.0,0.0,0.0,0.0,31.66,68.34,20210615.0,Yuba County
+57,57,Silicon Fire,2021-06-14T11:40:00Z,Santa Clara,35.0,0.0,0.0,0.0,0.0,100.0,0.0,20210615.0,Santa Clara County
+58,58,Kathryn Fire,2021-06-15T13:30:00Z,Riverside,15.0,0.0,0.0,0.0,59.19,38.31,2.5,20210615.0,Riverside County
+59,59,Rock Fire,2021-06-15T17:14:55Z,Shasta,108.0,0.0,0.0,0.0,0.19,25.52,74.29,20210615.0,Shasta County
+60,60,Dairy Fire,2021-06-15T18:59:10Z,Tehama,165.0,0.0,0.0,0.0,2.0,16.06,81.94,20210615.0,Tehama County
+61,61,Equestrian Fire,2021-06-16T14:03:42Z,El Dorado,10.0,0.0,0.0,0.0,0.0,92.44,7.56,20210615.0,El Dorado County
+62,62,Pomo Fire,2021-06-17T16:45:06Z,Lake,42.0,0.0,0.0,0.0,0.0,25.97,74.03,20210615.0,Lake County
+63,63,Park Fire,2021-06-17T21:37:07Z,Butte,402.0,0.0,0.0,0.0,0.0,16.81,83.19,20210615.0,Butte County
+64,64,Alabama Fire,2021-06-18T02:19:00Z,Inyo,560.0,0.0,0.0,0.0,0.0,5.38,94.62,20210622.0,Inyo County
+65,65,Antelope Fire,2021-06-18T06:33:00Z,Tulare,11.0,0.0,0.0,0.0,0.0,29.56,70.44,20210622.0,Tulare County
+66,66,Success Fire,2021-06-18T01:17:00Z,Tulare,800.0,0.0,0.0,0.0,0.0,29.56,70.44,20210622.0,Tulare County
+67,67,Nettle Fire,2021-06-18T10:11:21Z,Tulare,1265.0,0.0,0.0,0.0,0.0,29.56,70.44,20210622.0,Tulare County
+68,68,Willow Fire,2021-06-18T11:49:41Z,Monterey,2877.0,0.0,0.0,0.0,0.0,99.47,0.53,20210622.0,Monterey County
+69,69,Crane Fire,2021-06-18T18:35:00Z,Kern,48.0,0.0,0.0,0.0,0.0,10.46,89.54,20210622.0,Kern County
+70,70,Overland Fire,2021-06-19T08:00:00Z,San Diego,515.0,0.0,0.0,88.95,11.05,0.0,0.0,20210622.0,San Diego County
+71,71,Bautista Fire,2021-06-19T13:36:00Z,Riverside,95.0,0.0,0.0,0.0,59.19,38.31,2.5,20210622.0,Riverside County
+72,72,Inyo Creek Fire,2021-06-19T06:19:04Z,Inyo,592.0,0.0,0.0,0.0,0.0,5.38,94.62,20210622.0,Inyo County
+73,73,Cow Fire,2021-06-20T16:38:04Z,Shasta,761.0,0.0,0.0,0.0,0.19,25.52,74.29,20210622.0,Shasta County
+74,74,76 Fire,2021-06-20T17:32:36Z,Riverside,20.0,0.0,0.0,0.0,59.19,38.31,2.5,20210622.0,Riverside County
+75,75,Clevenger Fire,2021-06-20T18:28:38Z,San Diego,53.0,0.0,0.0,88.95,11.05,0.0,0.0,20210622.0,San Diego County
+76,76,Watt Fire,2021-06-21T16:41:35Z,Placer,42.0,0.0,0.0,0.0,0.0,72.64,27.36,20210622.0,Placer County
+77,77,Antelope Fire,2021-06-22T11:19:00Z,Modoc,580.0,0.0,0.0,0.0,6.93,93.07,0.0,20210622.0,Modoc County
+78,78,Panoche Fire,2021-06-23T13:38:00Z,San Benito,145.0,0.0,0.0,0.0,0.0,100.0,0.0,20210622.0,San Benito County
+79,79,Pine Fire,2021-06-23T13:42:00Z,Shasta,50.0,0.0,0.0,0.0,0.19,25.52,74.29,20210622.0,Shasta County
+80,80,Mesa Fire,2021-06-23T16:01:58Z,San Diego,350.0,0.0,0.0,88.95,11.05,0.0,0.0,20210622.0,San Diego County
+81,81,4-3 Fire,2021-06-24T18:38:46Z,Modoc,134.0,0.0,0.0,0.0,6.93,93.07,0.0,20210622.0,Modoc County
+82,82,Paseo Fire,2021-06-25T14:23:00Z,Santa Clara,37.0,0.0,0.0,0.0,0.0,100.0,0.0,20210629.0,Santa Clara County
+83,83,Steins Fire,2021-06-26T13:05:41Z,El Dorado,11.0,0.0,0.0,0.0,0.0,92.44,7.56,20210629.0,El Dorado County
+84,84,Lava Fire,2021-06-24T20:35:24Z,Siskiyou,26409.0,0.0,0.0,2.07,4.76,93.17,0.0,20210622.0,Siskiyou County
+85,85,Canyon Fire,2021-06-26T20:47:10Z,Kern,220.0,0.0,0.0,0.0,0.0,10.46,89.54,20210629.0,Kern County
+86,86,Shell Fire,2021-06-27T13:07:06Z,Kern,1984.0,0.0,0.0,0.0,0.0,10.46,89.54,20210629.0,Kern County
+87,87,Sky Fire,2021-06-27T17:49:34Z,Butte,76.0,0.0,0.0,0.0,0.0,16.81,83.19,20210629.0,Butte County
+88,88,Vulcan Fire,2021-06-27T17:05:33Z,Fresno,140.0,0.0,0.0,0.0,0.0,63.68,36.32,20210629.0,Fresno County
+89,89,Peak Fire,2021-06-28T10:52:00Z,San Bernardino,35.0,0.0,0.0,0.0,9.34,69.25,21.41,20210629.0,San Bernardino County
+90,90,Stowe Fire,2021-06-28T16:48:08Z,Riverside,122.0,0.0,0.0,0.0,59.19,38.31,2.5,20210629.0,Riverside County
+91,91,Lilly Fire,2021-06-28T16:07:00Z,Madera,35.0,0.0,0.0,0.0,0.0,65.45,34.55,20210629.0,Madera County
+92,92,Tennant Fire,2021-06-28T16:07:00Z,Siskiyou,10580.0,0.0,0.0,2.07,4.76,93.17,0.0,20210629.0,Siskiyou County
+93,93,Beswick Fire,2021-06-28T18:14:00Z,Siskiyou,118.0,0.0,0.0,2.07,4.76,93.17,0.0,20210629.0,Siskiyou County
+94,94,Blue Fire,2021-06-30T16:22:00Z,Fresno,277.0,0.0,0.0,0.0,0.0,63.68,36.32,20210629.0,Fresno County
+95,95,Salt Fire,2021-06-30T14:55:56Z,Shasta,12660.0,0.0,0.0,0.0,0.19,25.52,74.29,20210629.0,Shasta County
+96,96,R-1 Fire,2021-06-30T20:49:00Z,Lassen,,0.0,0.0,0.0,0.0,100.0,0.0,20210629.0,Lassen County
+97,97,Ysabel Fire,2021-07-03T11:34:00Z,San Diego,173.0,0.0,0.0,88.95,11.05,0.0,0.0,20210706.0,San Diego County
+98,98,Main Fire,2021-07-03T08:00:32Z,Tulare,384.0,0.0,0.0,0.0,0.0,29.56,70.44,20210706.0,Tulare County
+99,99,Beckwourth Complex,2021-07-04T09:26:06Z,Plumas,105670.0,0.0,0.0,0.0,0.0,99.8,0.2,20210706.0,Plumas County
+100,100,Tumbleweed Fire,2021-07-04T14:49:36Z,Los Angeles,868.0,0.0,0.0,1.41,0.06,94.44,4.09,20210706.0,Los Angeles County
+101,101,Fish Fire,2021-07-04T17:46:54Z,Fresno,75.0,0.0,0.0,0.0,0.0,63.68,36.32,20210706.0,Fresno County
+102,102,Juniper Fire,2021-07-05T16:34:58Z,Modoc,1011.0,0.0,0.0,0.0,6.93,93.07,0.0,20210706.0,Modoc County
+103,103,Broiler Fire,2021-07-07T14:30:00Z,Mendocino,80.0,0.0,0.0,0.0,21.56,58.83,19.61,20210706.0,Mendocino County
+104,104,Basalt Fire,2021-07-09T13:26:01Z,Merced,92.0,0.0,0.0,0.0,0.0,100.0,0.0,20210713.0,Merced County
+105,105,Coyote Fire,2021-07-09T16:41:27Z,Modoc,110.0,0.0,0.0,0.0,6.83,93.17,0.0,20210713.0,Modoc County
+106,106,Road Fire,2021-07-10T13:38:19Z,San Diego,86.0,0.0,0.0,89.19,10.81,0.0,0.0,20210713.0,San Diego County
+107,107,Diablo Fire,2021-07-11T09:22:05Z,Contra Costa,128.0,0.0,0.0,0.0,0.0,0.0,100.0,20210713.0,Contra Costa County
+108,108,Bear Fire,2021-07-11T13:29:14Z,Kern,71.0,0.0,0.0,0.0,0.0,10.46,89.54,20210713.0,Kern County
+109,109,River Fire,2021-07-11T14:10:26Z,Mariposa,9656.0,0.0,0.0,0.0,0.0,69.0,31.0,20210713.0,Mariposa County
+110,110,Bradley Fire,2021-07-11T15:08:43Z,Siskiyou,357.0,0.0,0.0,1.85,4.75,93.41,0.0,20210713.0,Siskiyou County
+111,111,Dexter Fire,2021-07-12T14:04:02Z,Mono,2965.0,0.0,0.0,0.0,0.0,55.76,44.24,20210713.0,Mono County
+112,112,Dixie Fire,2021-07-13T17:15:00Z,Butte,,0.0,0.0,0.0,0.0,16.81,83.19,20210713.0,Butte County
+113,113,Dixie Fire,2021-07-13T17:15:00Z,Plumas,,0.0,0.0,0.0,0.0,99.8,0.2,20210713.0,Plumas County
+114,114,Dixie Fire,2021-07-13T17:15:00Z,Shasta,,0.0,0.0,0.0,0.2,25.51,74.29,20210713.0,Shasta County
+115,115,Dixie Fire,2021-07-13T17:15:00Z,Lassen,,0.0,0.0,0.0,0.0,100.0,0.0,20210713.0,Lassen County
+116,116,Dixie Fire,2021-07-13T17:15:00Z,Tehama,,0.0,0.0,0.0,1.97,16.09,81.94,20210713.0,Tehama County
+117,117,Cannon Fire,2021-07-14T15:18:48Z,Tehama,43.0,0.0,0.0,0.0,1.97,16.09,81.94,20210713.0,Tehama County
+118,118,Dolicini Fire,2021-07-14T15:34:10Z,Marin,35.0,0.0,0.0,0.0,0.0,0.0,100.0,20210713.0,Marin County
+119,119,Henry Fire,2021-06-25T19:53:41Z,Alpine,1320.0,0.0,0.0,0.0,0.0,100.0,0.0,20210629.0,Alpine County
+120,120,Border 13 Fire,2021-07-15T16:02:27Z,San Diego,30.0,0.0,0.0,89.19,10.81,0.0,0.0,20210713.0,San Diego County
+121,121,Tamarack Fire,2021-07-04T11:57:58Z,Alpine,,0.0,0.0,0.0,0.0,100.0,0.0,20210706.0,Alpine County
+122,122,Fork Fire,2021-07-17T17:40:13Z,Tehama,43.0,0.0,0.0,0.0,1.37,16.69,81.94,20210720.0,Tehama County
+123,123,Chicken Fire,2021-07-18T13:34:00Z,Lassen,55.0,0.0,0.0,0.0,0.0,100.0,0.0,20210720.0,Lassen County
+124,124,Quail Fire,2021-07-20T13:52:41Z,Riverside,50.0,0.0,0.0,0.0,59.67,37.83,2.5,20210720.0,Riverside County
+125,125,Peak Fire,2021-07-20T11:40:00Z,Kern,2098.0,0.0,0.0,0.0,0.0,10.46,89.54,20210720.0,Kern County
+126,126,Frenchtown Fire,2021-07-20T16:36:32Z,Yuba,45.0,0.0,0.0,0.0,0.0,31.66,68.34,20210720.0,Yuba County
+127,127,Mountain Fire,2021-07-23T00:00:00Z,Trinity,25.0,0.0,0.0,0.0,50.62,49.38,0.0,20210720.0,Trinity County
+128,128,Park Fire,2021-07-26T00:00:00Z,Tulare,100.0,0.0,0.0,0.0,0.0,0.0,100.0,20210727.0,Tulare County
+129,129,Pinnacles Fire,2021-07-28T00:00:00Z,Monterey,171.0,0.0,0.0,0.0,0.0,97.52,2.48,20210727.0,Monterey County
+130,130,Evans Fire,2021-07-29T19:14:42Z,Plumas,85.0,0.0,0.0,0.0,0.0,66.26,33.74,20210727.0,Plumas County
+131,131,McFarland Fire,2021-07-30T18:44:00Z,Shasta,122653.0,0.0,0.0,0.0,0.0,20.29,79.71,20210803.0,Shasta County
+132,132,McFarland Fire,2021-07-30T18:44:00Z,Trinity,122653.0,0.0,0.0,0.0,0.0,100.0,0.0,20210803.0,Trinity County
+133,133,McFarland Fire,2021-07-30T18:44:00Z,Tehama,122653.0,0.0,0.0,0.0,0.0,16.18,83.82,20210803.0,Tehama County
+134,134,Robie Fire,2021-07-30T00:00:00Z,Calaveras,153.0,0.0,0.0,0.0,0.0,2.53,97.47,20210727.0,Calaveras County
+135,135,Hungry Fire,2021-07-31T00:00:00Z,Los Angeles,340.0,0.0,0.0,1.41,0.01,78.59,19.99,20210803.0,Los Angeles County
+136,136,Tobin Fire,2021-07-31T17:10:53Z,San Luis Obispo,75.0,0.0,0.0,0.0,0.0,82.3,17.7,20210803.0,San Luis Obispo County
+137,137,Antelope Fire,2021-08-01T11:28:25Z,Siskiyou,,0.0,0.0,1.16,4.81,87.45,6.57,20210803.0,Siskiyou County
+138,138,Hiding Fire,2021-08-01T00:00:00Z,Shasta,50.0,0.0,0.0,0.0,0.0,20.29,79.71,20210803.0,Shasta County
+139,139,Monument Fire,2021-07-30T12:28:00Z,Trinity,,0.0,0.0,0.0,0.0,100.0,0.0,20210803.0,Trinity County
+140,140,River Complex,2021-07-30T18:17:40Z,Siskiyou,,0.0,0.0,1.16,4.81,87.45,6.57,20210803.0,Siskiyou County
+141,141,River Complex,2021-07-30T18:17:40Z,Trinity,,0.0,0.0,0.0,0.0,100.0,0.0,20210803.0,Trinity County
+142,142,Antonio Fire,2021-08-03T13:02:00Z,Los Angeles,50.0,0.0,0.0,1.41,0.01,78.59,19.99,20210803.0,Los Angeles County
+143,143,House Fire,2021-08-04T00:00:00Z,Shasta,60.0,0.0,0.0,0.0,0.0,20.29,79.71,20210803.0,Shasta County
+144,144,River Fire,2021-08-04T00:00:00Z,Nevada,2619.0,0.0,0.0,0.0,0.0,41.64,58.36,20210803.0,Nevada County
+145,145,River Fire,2021-08-04T00:00:00Z,Placer,2619.0,0.0,0.0,0.0,0.0,44.02,55.98,20210803.0,Placer County
+146,146,Hambone Fire,2021-08-06T11:11:37Z,Siskiyou,55.0,0.0,0.0,1.16,4.81,87.45,6.57,20210810.0,Siskiyou County
+147,147,Nelson Fire,2021-08-07T00:00:00Z,Shasta,20.0,0.0,0.0,0.0,0.0,20.29,79.71,20210810.0,Shasta County
+148,148,Glen Fire,2021-08-11T00:00:00Z,Yuba,184.0,0.0,0.0,0.0,0.0,0.0,100.0,20210810.0,Yuba County
+149,149,Middle Fire,2021-08-13T00:00:00Z,Sonoma,22.0,0.0,0.0,0.0,0.0,0.0,100.0,20210810.0,Sonoma County
+150,150,Coyote Fire,2021-08-13T00:00:00Z,Lake,127.0,0.0,0.0,0.0,0.0,25.97,74.03,20210810.0,Lake County
+151,151,Bell Fire,2021-08-14T00:00:00Z,Mendocino,50.0,0.0,0.0,0.0,0.0,51.53,48.47,20210817.0,Mendocino County
+152,152,Caldor Fire,2021-08-14T18:54:00Z,El Dorado,,0.0,0.0,0.0,0.0,39.38,60.62,20210817.0,El Dorado County
+153,153,Caldor Fire,2021-08-14T18:54:00Z,Alpine,,0.0,0.0,0.0,0.0,100.0,0.0,20210817.0,Alpine County
+154,154,Caldor Fire,2021-08-14T18:54:00Z,Amador,,0.0,0.0,0.0,0.0,14.91,85.09,20210817.0,Amador County
+155,155,Walkers Fire,2021-08-16T16:05:54Z,Tulare,8777.0,0.0,0.0,0.0,0.0,0.0,100.0,20210817.0,Tulare County
+156,156,Cache Fire,2021-08-18T12:34:00Z,Lake,83.0,0.0,0.0,0.0,0.0,25.97,74.03,20210817.0,Lake County
+157,157,McCash Fire,2021-08-18T08:50:00Z,Siskiyou,,0.0,0.0,0.0,5.98,53.66,40.36,20210817.0,Siskiyou County
+158,158,French Fire,2021-08-18T18:20:00Z,Kern,,0.0,0.0,0.0,0.0,10.59,89.41,20210817.0,Kern County
+159,159,Rock Fire,2021-08-24T13:38:00Z,Riverside,295.0,0.0,0.0,0.0,64.38,33.86,1.76,20210824.0,Riverside County
+160,160,Mule Fire,2021-08-25T00:00:00Z,Shasta,10.0,0.0,0.0,0.0,0.0,9.9,90.1,20210824.0,Shasta County
+161,161,Airola Fire,2021-08-25T14:55:00Z,Calaveras,639.0,0.0,0.0,0.0,0.0,2.53,97.47,20210824.0,Calaveras County
+162,162,South Fire,2021-08-25T16:11:00Z,San Bernardino,819.0,0.0,0.0,0.0,9.26,73.03,17.71,20210824.0,San Bernardino County
+163,163,Westward Fire,2021-08-25T14:17:00Z,Riverside,160.0,0.0,0.0,0.0,64.38,33.86,1.76,20210824.0,Riverside County
+164,164,Bennett Fire,2021-08-25T15:33:00Z,Nevada,59.0,0.0,0.0,0.0,0.0,41.64,58.36,20210824.0,Nevada County
+165,165,Washington Fire,2021-08-26T13:20:00Z,Tuolumne,100.0,0.0,0.0,0.0,0.0,8.34,91.66,20210824.0,Tuolumne County
+166,166,Roadside Fire,2021-08-28T11:25:00Z,San Bernardino,50.0,0.0,0.0,0.0,9.26,73.03,17.71,20210831.0,San Bernardino County
+167,167,Chaparral Fire,2021-08-28T12:40:00Z,Riverside,1427.0,0.0,0.0,0.0,64.38,33.86,1.76,20210831.0,Riverside County
+168,168,Chaparral Fire,2021-08-28T12:40:00Z,San Diego,1427.0,0.0,0.0,89.99,10.01,0.0,0.0,20210831.0,San Diego County
+169,169,Railroad Fire,2021-08-29T12:50:00Z,San Bernardino,61.0,0.0,0.0,0.0,9.26,73.03,17.71,20210831.0,San Bernardino County
+170,170,Knob Fire,2021-08-29T08:00:00Z,Humboldt,2421.0,0.0,0.0,0.0,27.91,72.09,0.0,20210831.0,Humboldt County
+171,171,K-Rail,2021-08-30T13:30:00Z,Humboldt,16.0,0.0,0.0,0.0,27.91,72.09,0.0,20210831.0,Humboldt County
+172,172,Lassen Fire,2021-09-01T14:27:00Z,Marin,44.0,0.0,0.0,0.0,0.0,0.0,100.0,20210831.0,Marin County
+173,173,Lawrence Fire,2021-09-05T10:40:20Z,Amador,46.0,0.0,0.0,0.0,0.0,14.91,85.09,20210907.0,Amador County
+174,174,Bridge Fire,2021-09-05T12:53:14Z,Placer,411.0,0.0,0.0,0.0,0.0,44.02,55.98,20210907.0,Placer County
+175,175,Aruba Fire,2021-09-05T15:50:14Z,San Diego,54.0,0.0,0.0,92.26,7.74,0.0,0.0,20210907.0,San Diego County
+176,176,Caballo Fire,2021-09-06T14:54:06Z,Santa Barbara,70.0,0.0,0.0,0.04,0.0,99.57,0.39,20210907.0,Santa Barbara County
+177,177,Route Fire,2021-09-11T16:06:47Z,Los Angeles,464.0,0.0,0.0,1.41,0.01,78.59,19.99,20210914.0,Los Angeles County
+178,178,Hopkins Fire,2021-09-12T14:15:09Z,Mendocino,257.0,0.0,0.0,0.0,0.0,51.53,48.47,20210914.0,Mendocino County
+179,179,Windy Fire,2021-09-09T12:00:00Z,Tulare,,0.0,0.0,0.0,0.0,0.0,100.0,20210907.0,Tulare County
+180,180,KNP Complex,2021-09-10T07:00:00Z,Tulare,,0.0,0.0,0.0,0.0,0.0,100.0,20210914.0,Tulare County
+181,181,Emigrant Fire,2021-09-17T13:34:00Z,Los Angeles,,0.0,0.0,1.41,0.01,78.59,19.99,20210921.0,Los Angeles County
+182,182,Childrens Fire,2021-09-19T11:40:00Z,Madera,42.0,0.0,0.0,0.0,0.0,0.0,100.0,20210921.0,Madera County
+183,183,University Fire,2021-09-22T11:27:08Z,San Bernardino,71.0,0.0,0.0,0.0,9.26,86.06,4.68,20210921.0,San Bernardino County
+184,184,Fremont Fire,2021-09-22T14:25:00Z,Napa,116.0,0.0,0.0,0.0,0.0,0.0,100.0,20210921.0,Napa County
+185,185,Fremont Fire,2021-09-22T14:25:00Z,Sonoma,116.0,0.0,0.0,0.0,0.0,0.0,100.0,20210921.0,Sonoma County
+186,186,Fawn Fire,2021-09-22T16:45:00Z,Shasta,8578.0,0.0,0.0,0.0,0.0,9.9,90.1,20210921.0,Shasta County
+187,187,Maxwell Fire,2021-10-05T15:34:31Z,Trinity,80.0,0.0,0.0,0.0,0.0,99.94,0.06,20211005.0,Trinity County
+188,188,View Fire ,2021-10-11T14:35:42Z,Tehama,24.0,0.0,0.0,0.0,0.0,16.18,83.82,20211012.0,Tehama County
+189,189,Kettle Fire,2021-10-11T18:43:59Z,Kings,447.0,0.0,0.0,0.0,0.0,0.0,100.0,20211012.0,Kings County
+190,190,Newell Fire,2021-10-11T20:02:23Z,Napa,132.0,0.0,0.0,0.0,0.0,0.0,100.0,20211012.0,Napa County
+191,191,Alisal Fire,2021-10-11T14:30:12Z,Santa Barbara,,0.0,0.0,0.04,0.0,99.57,0.39,20211012.0,Santa Barbara County
+192,192,Canal Fire ,2021-10-14T16:49:00Z,Trinity,59.0,0.0,0.0,0.0,0.0,99.94,0.06,20211012.0,Trinity County
+193,193,Gravel Fire,2021-10-15T15:15:00Z,Modoc,200.0,0.0,0.0,0.0,0.0,85.14,14.86,20211019.0,Modoc County
+194,194,Estrada Fire,2021-10-15T14:40:39Z,Santa Cruz,148.0,0.0,0.0,0.0,0.0,100.0,0.0,20211019.0,Santa Cruz County
